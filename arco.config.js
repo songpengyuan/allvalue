@@ -11,6 +11,9 @@ module.exports = {
   initialMeta: {
     group: 0,
   },
+  npm: {
+    registry: 'https://gitlab.qima-inc.com/i18n/web/hunter-design',
+  },
   // path of arco block insertion, relative to /src ('myPath' will be resolved as '/src/myPath')
   // pathBlockInsert: 'pathRelativeToSrc',
 };
