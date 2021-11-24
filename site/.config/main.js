@@ -11,12 +11,12 @@ module.exports = {
         style: 'src/style/index.ts',
       },
       // 可用于 Arco 物料库模板的配置
-      // component: {
-      //   base: '../components/*',
-      //   doc: 'README.md',
-      //   demo: 'demo/index.js',
-      //   style: 'style/index.ts',
-      // },
+      component: {
+        base: '../components/*',
+        doc: 'README.md',
+        demo: 'demo/index.js',
+        style: 'style/index.ts',
+      },
       // 可用于 Arco 工具库模板的配置
       // component: {
       //   base: '../src/*',

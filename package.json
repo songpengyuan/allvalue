@@ -22,7 +22,8 @@
     "stylelint": "stylelint 'components/**/*.less' --fix --cache",
     "format": "prettier '{tests,components}/**/*.{js,jsx,ts,tsx}' --config .prettierrc --write ",
     "clean": "rm -rf es && rm -rf lib && rm -rf dist",
-    "prepublishOnly": "npm run build && npm run docgen"
+    "prepublishOnly": "npm run build && npm run docgen",
+    "site": "cd site && npm run build && npm run preview"
   },
   "peerDependencies": {
     "react": ">=16",
