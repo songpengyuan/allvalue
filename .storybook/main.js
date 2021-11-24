@@ -24,7 +24,7 @@ function getLoaderForStyle(isCssModule) {
 module.exports = {
   stories: ['../stories/*.@(js|jsx|ts|tsx)'],
   webpackFinal: (config) => {
-    config.resolve.alias['hunter-design '] = path.resolve(__dirname, '../components');
+    config.resolve.alias['hunter-design'] = path.resolve(__dirname, '../components');
 
     // 支持 import less
     config.module.rules.push({

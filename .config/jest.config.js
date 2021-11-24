@@ -2,8 +2,8 @@
 exports.node = (config) => {
   config.testPathIgnorePatterns = ['/node_modules/', '/scripts/'];
   config.moduleNameMapper = {
-    '^hunter-design /(.+)$': '<rootDir>/$1',
-    '^hunter-design $': '<rootDir>',
+    '^hunter-design/(.+)$': '<rootDir>/$1',
+    '^hunter-design$': '<rootDir>',
   };
 };
 
@@ -19,7 +19,7 @@ exports.client = (config) => {
     '/components/locale/',
   ];
   config.moduleNameMapper = {
-    '^hunter-design /(.+)$': '<rootDir>/$1',
-    '^hunter-design $': '<rootDir>',
+    '^hunter-design/(.+)$': '<rootDir>/$1',
+    '^hunter-design$': '<rootDir>',
   };
 };
