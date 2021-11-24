@@ -25,6 +25,10 @@
     "prepublishOnly": "npm run build && npm run docgen",
     "site": "cd site && npm run build && npm run preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.qima-inc.com:i18n/web/hunter-design.git"
+  },
   "peerDependencies": {
     "react": ">=16",
     "react-dom": "^16.0.1",
