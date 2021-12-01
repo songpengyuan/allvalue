@@ -1,0 +1,19 @@
+{
+  "name": "allvalue",
+  "title": "hunter-design",
+  "description": "allvalue-design",
+  "type": "react-library",
+  "category": [],
+  "group": 0,
+  "homepage": "",
+  "repository": "",
+  "author": "songpengyuan",
+  "screenshot": "",
+  "package": {
+    "name": "allvalue",
+    "version": "latest",
+    "type": "npm",
+    "registry": "",
+    "peerDependencies": []
+  }
+}
