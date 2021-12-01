@@ -1,7 +1,7 @@
 {
-  "name": "hunter-design",
+  "name": "allvalue",
   "version": "0.1.5",
-  "description": "hunter-design",
+  "description": "allvalue-design",
   "main": "./lib/index.js",
   "module": "./es/index.js",
   "types": "./es/index.d.ts",
