@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:songpengyuan/hunter-design.git"
+    "url": "git@github.com:songpengyuan/allvalue.git"
   },
   "peerDependencies": {
     "react": ">=16",
