@@ -1,5 +1,5 @@
 {
-  "name": "@youzan/hunter-design",
+  "name": "hunter-design",
   "version": "0.1.5",
   "description": "hunter-design",
   "main": "./lib/index.js",
