@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.qima-inc.com:i18n/web/hunter-design.git"
+    "url": "git@github.com:songpengyuan/hunter-design.git"
   },
   "peerDependencies": {
     "react": ">=16",
